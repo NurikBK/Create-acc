@@ -6,8 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 @font-face {
-    font-family: Norse;
-    src: url('./assets/Norse-Bold.otf');
+    font-family: "Norse";
+    src: url('./font/Norse-Bold.otf');
 }
 
 
