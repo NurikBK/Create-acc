@@ -3,10 +3,13 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 @font-face {
-    src: url(/font/Norse-Bold.otf);
-    font-family: 'Norse';
+    font-family: Norse;
+    src: url('./assets/Norse-Bold.otf');
 }
+
 
 body {
     height: 100vh;
